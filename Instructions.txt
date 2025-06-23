@@ -1,0 +1,7 @@
+Till now Age Gender Saroj(3) file is working fine with age_gender_model(3).keras model. 
+
+ age_gender_model(3) use this model showing perfect age.
+
+ Age Gender Saroj(3) run the last code of this .ipynb file it is giving stable age.
+
+have enough light in the room with a good qualtity camera and sit minimum of 1 meter distance in front of camera
